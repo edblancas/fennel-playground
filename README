@@ -1,2 +1,4 @@
-cljlib
-<https://gitlab.com/andreyorst/fennel-cljlib>
+# fennel-playground
+- [cljlib-doc local](./cljlib.md)
+- [cljlib-doc online](https://gitlab.com/andreyorst/fennel-cljlib/-/blob/master/doc/cljlib.md)
+- [cljlib](https://gitlab.com/andreyorst/fennel-cljlib)
